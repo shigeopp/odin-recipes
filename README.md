@@ -1,0 +1,1 @@
+After i complete The Odin Project, i get to build my own site that shows excerption of The Elements of Typographic Style by Robert Bringhurst.
